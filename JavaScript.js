@@ -1,1 +1,2 @@
-let app=new Vue({});
+let app=new Vue({
+el:'#app'});
